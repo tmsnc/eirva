@@ -127,3 +127,53 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/df_5y_20220303.pkl
+data/df_5y_20220309.pkl
+data/df_5y_20220310.pkl
+data/df_5y_20220311.pkl
+data/df_5y_20220314.pkl
+data/df_5y_20220315.pkl
+data/df_5y_20220316.pkl
+data/df_5y_20220317.pkl
+data/df_5y_20220321.pkl
+data/df_5y_20220322.pkl
+data/df_5y_20220323.pkl
+data/df_5y_20220324.pkl
+data/df_5y_20220325.pkl
+data/df_5y_20220328.pkl
+data/df_5y_20220329.pkl
+data/df_5y_20220330.pkl
+data/df_5y_20220331.pkl
+data/df_5y_20220401.pkl
+data/df_5y_20220407.pkl
+data/df_info_raw_20220301.pkl
+data/df_info_raw_20220309.pkl
+data/df_info_raw_20220310.pkl
+data/df_info_raw_20220311.pkl
+data/df_info_raw_20220316.pkl
+data/df_info_raw_20220317.pkl
+data/df_info_raw_20220321.pkl
+data/df_info_raw_20220323.pkl
+data/df_info_raw_20220328.pkl
+data/df_info_raw_20220330.pkl
+data/df_info_raw_20220331.pkl
+data/df_info_raw_20220401.pkl
+data/mean_var_2022-03-08.pkl
+data/mean_var_2022-03-18.pkl
+blog/cluster_quality.png
+blog/comb_model_lr.png
+blog/feature_pct.gif
+blog/ind_coef_hist.png
+blog/industry_intercepts.png
+blog/lr_sum_weights.png
+blog/price.gif
+blog/risk_return.gif
+blog/sim_table.gif
+blog/sklearn_lr.png
+vis-Copy1.ipynb
+vis_plotly_sample.ipynb
+Draft paper.docx
+df_quant_2_1_3_3.pkl
+Blog.docx
+~$aft paper.docx
+~WRL1401.tmp
