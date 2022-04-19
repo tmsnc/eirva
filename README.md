@@ -17,6 +17,9 @@ To follow along the report blog, details of the code implementation can be read 
 
 To run the application directly, there are 3 components:
 * _download_data.py_: this can be scheduled daily to download the necessary data from Yahoo Finance into a pickle file for further processing.
+At the moment there is occasionally an issue with yfinance that prevents the last few tickers to complete download.  Issue has been reported: https://github.com/ranaroussi/yfinance/issues/598 \
+![yfinance_bug](https://user-images.githubusercontent.com/68125040/163950423-6b4b9827-76e5-4274-89f9-c532224664b5.png) \
+Please use sample data provided as of 2022-03-18 to run the application.
 * _data.py_: this will take the pickled Yahoo Finance data and perform all data preparation and processing steps and expore pickle files ready for visualization.
 * _vis.py_: this runs the Plotly Dash flask web server to host the interactive application that can be viewed in browser.
 
